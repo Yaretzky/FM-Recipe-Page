@@ -136,7 +136,7 @@ div.container section.nutrition table tr td.bold {
 }
 
 
-@media (max-width:360px) {
+@media (max-width:375px) {
 
     body {
         display: flex;
